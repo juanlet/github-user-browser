@@ -44,6 +44,7 @@ const User = ({ match}) => {
                <div className="card grid-2">
                 <div className="all-center">
                     <img 
+                    alt=""
                         src={avatar_url} 
                         className="round-img" 
                         style={{width: '150px'}}
