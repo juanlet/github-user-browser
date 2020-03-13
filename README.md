@@ -1,3 +1,3 @@
-Simple Github users browser using react hooks and Context API.
+Simple Github user browser 
 
 Live demo: https://githubbrowser2019765.netlify.com
